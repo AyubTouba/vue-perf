@@ -1,7 +1,8 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <header class="max-w-3xl">
+    <p class="mb-2 text-sm font-semibold text-blue-600">About</p>
+
+  </header>
 </template>
 
 <style>
